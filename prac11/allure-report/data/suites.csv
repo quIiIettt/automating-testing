@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Apr 10 02:25:41 EEST 2024","Wed Apr 10 02:25:42 EEST 2024","477","","test","TestUserAPI","","","Test getting user data",""
+"passed","Wed Apr 10 02:25:42 EEST 2024","Wed Apr 10 02:25:43 EEST 2024","545","","test","TestUserAPI","","","Test updating user data",""
+"passed","Wed Apr 10 02:25:43 EEST 2024","Wed Apr 10 02:25:43 EEST 2024","577","","test","TestUserAPI","","","Test deleting user data",""
+"passed","Wed Apr 10 02:25:42 EEST 2024","Wed Apr 10 02:25:42 EEST 2024","539","","test","TestUserAPI","","","Test creating a new user",""

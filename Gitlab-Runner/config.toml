@@ -1,0 +1,19 @@
+concurrent = 1
+check_interval = 0
+connection_max_age = "15m0s"
+shutdown_timeout = 0
+
+[session_server]
+  session_timeout = 1800
+
+[[runners]]
+  name = "tests"
+  url = "https://gitlab.com"
+  id = 34732272
+  token = "glrt-S_-4BkgeyUeytJymzaqb"
+  token_obtained_at = 2024-04-14T05:26:22Z
+  token_expires_at = 0001-01-01T00:00:00Z
+  executor = "shell"
+  shell = "powershell"
+  [runners.cache]
+    MaxUploadedArchiveSize = 0

@@ -1,0 +1,8 @@
+[init]
+	defaultBranch = none
+[fetch]
+	recurseSubmodules = false
+[transfer]
+	bundleURI = true
+[http "https://gitlab.com"]
+	sslCAInfo = C:\\Users\\cooyy\\OneDrive\\Documents\\GitHub\\automating-testing\\Gitlab-Runner\\builds\\S_-4Bkgey\\0\\study3384615\\automating-testing.tmp\\CI_SERVER_TLS_CA_FILE
